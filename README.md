@@ -29,7 +29,7 @@ Inspira is more than just an app—it’s a **creative platform designed to empo
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khushibhavsar&show_icons=true&count_private=true&hide=prs&hide_title=true&theme=radical)  
 
 ## 🌍 Let's Connect!  
-💼 [LinkedIn](https://www.linkedin.com/in/khushi-bhavsar/) | 📝 [Portfolio](website) 
+💼 [LinkedIn](https://www.linkedin.com/in/khushi-bhavsar/) | 📝 [Portfolio]([website](https://bhavsarkhushi08.wixsite.com/website)) 
 
 📌 **"Empowering the next generation of women in tech—one line of code at a time."**  
 
