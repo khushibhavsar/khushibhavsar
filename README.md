@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 🌟 Hello, I'm Khushi Bhavsar! 👩‍💻  
 
 🚀 **Aspiring Software Engineer | Web Developer | Advocate for Women in Tech**  
