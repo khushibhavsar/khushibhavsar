@@ -16,7 +16,12 @@ I'm passionate about **building accessible and user-friendly web experiences** u
 🔹 **Other**: UI/UX Design Principles, Accessibility  
 
 ## 📌 Featured Projects  
-🚧 *Coming soon! Working on improving my portfolio.*  
+### 🎨 **Inspira** ✨  
+Inspira is more than just an app—it’s a **creative platform designed to empower artists** of all levels.  
+![Inspira GIF](https://media.giphy.com/media/l0MYGbYwExlzRz3eY/giphy.gif)  
+- **Dynamic space** for showcasing talent and connecting with like-minded creators.  
+- Provides **learning resources, guidance, and inspiration** for newcomers.  
+- Supports and elevates your creative journey, whether you’re an **experienced artist or just starting out**.   
 
 ## 🌍 Let's Connect!  
 💼 [LinkedIn](https://www.linkedin.com/in/khushi-bhavsar/) | 📝 [Portfolio](website) 
