@@ -22,7 +22,7 @@ Inspira is more than just an app—it’s a **creative platform designed to empo
 - Provides **learning resources, guidance, and inspiration** for newcomers.  
 - Supports and elevates your creative journey, whether you’re an **experienced artist or just starting out**.
 
-🔗 **Check out the Inspira Project on GitHub**: [Inspira Repository](https://github.com/khushibhavsar/inspira/tree/master)
+🔗 **Check out Inspira Online!**: [Inspira](https://inspira-nine.vercel.app/)
 
 ## 🌍 Let's Connect!  
 💼 [LinkedIn](https://www.linkedin.com/in/khushi-bhavsar/) | 📝 [Portfolio](https://bhavsarkhushi08.wixsite.com/website) 
