@@ -6,7 +6,6 @@ I'm passionate about **building accessible and user-friendly web experiences** u
 
 ## 🔹 About Me  
 - 🌱 Currently learning **React** and improving my web development skills.  
-- 💡 Interested in **open-source projects** and **tech for social good**.  
 - ✨ Passionate about **mentorship programs** and supporting more girls in tech.  
 - 🎯 Future goal: Work at a **nonprofit or mission-driven company** as a developer!  
 
@@ -24,9 +23,6 @@ Inspira is more than just an app—it’s a **creative platform designed to empo
 - Supports and elevates your creative journey, whether you’re an **experienced artist or just starting out**.
 
 🔗 **Check out the Inspira Project on GitHub**: [Inspira Repository](https://github.com/khushibhavsar/inspira/tree/master)
-
-## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khushibhavsar&show_icons=true&count_private=true&hide=prs&hide_title=true&theme=radical)  
 
 ## 🌍 Let's Connect!  
 💼 [LinkedIn](https://www.linkedin.com/in/khushi-bhavsar/) | 📝 [Portfolio](https://bhavsarkhushi08.wixsite.com/website) 
