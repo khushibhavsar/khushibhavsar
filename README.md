@@ -17,7 +17,7 @@ I'm passionate about **building accessible and user-friendly web experiences** u
 
 ## Featured Projects  
 ###  **Inspira**   
-Inspira is more than just an app—it’s a **creative platform designed to empower artists** of all levels.  
+Inspira is more than just an app, it’s a **creative platform designed to empower artists** of all levels.  
 - **Dynamic space** for showcasing talent and connecting with like-minded creators.  
 - Provides **learning resources, guidance, and inspiration** for newcomers.  
 - Supports and elevates your creative journey, whether you’re an **experienced artist or just starting out**.
