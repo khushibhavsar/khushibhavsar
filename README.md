@@ -15,19 +15,19 @@ I'm passionate about **building accessible and user-friendly web experiences** u
  **Tools & Frameworks**: Git, GitHub, VS Code, React  
  **Other**: UI/UX Design Principles, Accessibility  
 
-## 📌 Featured Projects  
-### 🎨 **Inspira** ✨  
+## Featured Projects  
+###  **Inspira**   
 Inspira is more than just an app—it’s a **creative platform designed to empower artists** of all levels.  
 - **Dynamic space** for showcasing talent and connecting with like-minded creators.  
 - Provides **learning resources, guidance, and inspiration** for newcomers.  
 - Supports and elevates your creative journey, whether you’re an **experienced artist or just starting out**.
 
-🔗 **Check out Inspira Online!**: [Inspira](https://inspira-nine.vercel.app/)
+ **Check out Inspira Online!**: [Inspira](https://inspira-nine.vercel.app/)
 
-## 🌍 Let's Connect!  
-💼 [LinkedIn](https://www.linkedin.com/in/khushi-bhavsar/) | 📝 [Portfolio](https://bhavsarkhushi08.wixsite.com/website) 
+##  Let's Connect!  
+ [LinkedIn](https://www.linkedin.com/in/khushi-bhavsar/) |  [Portfolio](https://khushibhavsar.github.io/) 
 
-📌 **"Empowering the next generation of women in tech—one line of code at a time."**  
+ **"Empowering the next generation of women in tech—one line of code at a time."**  
 
 <!--
 **khushibhavsar/khushibhavsar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
