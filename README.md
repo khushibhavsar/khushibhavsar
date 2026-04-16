@@ -4,25 +4,11 @@
 
 I'm passionate about **building accessible and user-friendly web experiences** using **HTML, CSS, and JavaScript**. Currently, I'm honing my skills in web development and contributing to meaningful projects.  
 
-##  About Me  
-- Currently learning **React** and improving my web development skills.  
-- Passionate about **mentorship programs** and supporting more girls in tech.  
-- Future goal: Work at a **nonprofit or mission-driven company** as a developer!  
-
 ## Tech Stack  
 ![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=fff) ![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=fff) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)    
  **Languages**: HTML, CSS, JavaScript, Python
  **Tools & Frameworks**: Git, GitHub, VS Code, React  
  **Other**: UI/UX Design Principles, Accessibility  
-
-## Featured Projects  
-###  **Inspira**   
-Inspira is more than just an app, it’s a **creative platform designed to empower artists** of all levels.  
-- **Dynamic space** for showcasing talent and connecting with like-minded creators.  
-- Provides **learning resources, guidance, and inspiration** for newcomers.  
-- Supports and elevates your creative journey, whether you’re an **experienced artist or just starting out**.
-
- **Check out Inspira Online!**: [Inspira](https://inspira-nine.vercel.app/)
 
 ##  Let's Connect!  
  [LinkedIn](https://www.linkedin.com/in/khushi-bhavsar/) |  [Portfolio](https://khushibhavsar.github.io/) 
