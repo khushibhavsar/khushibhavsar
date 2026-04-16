@@ -11,7 +11,6 @@ I'm passionate about **building accessible and user-friendly web experiences** u
 
  [LinkedIn](https://www.linkedin.com/in/khushi-bhavsar/) |  [Portfolio](https://khushibhavsar.github.io/) 
 
- **"Empowering the next generation of women in tech—one line of code at a time."**  
 
 <!--
 **khushibhavsar/khushibhavsar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
