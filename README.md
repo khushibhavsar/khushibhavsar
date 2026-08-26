@@ -1,6 +1,6 @@
-# Hello, I'm Khushi Bhavsar! 👩‍💻  
+# Hi there, I'm Khushi Bhavsar! 👩‍💻  
 
-🚀 **Aspiring Software Engineer | Web Developer | Advocate for Women in Tech**  
+**Aspiring Software Engineer | Web Developer | Advocate for Women in Tech**  
 
 I'm passionate about **building accessible and user-friendly web experiences** using **HTML, CSS, and JavaScript**. Currently, I'm honing my skills in web development and contributing to meaningful projects.  
  
